@@ -1,4 +1,4 @@
-# Taku
+# Guesmia
 
 **AI engineer.** I build systems at the intersection of language models, data pipelines, and automation — things that run in production, not just notebooks.
 
